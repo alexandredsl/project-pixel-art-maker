@@ -1,3 +1,15 @@
+'use strict';
+
+// TODO: definição de váriaveis;
+
+let currentColor = document.querySelector("#colorPicker").value;
+
+let gridHeight = document.querySelector("#inputHeight").value;
+
+let gridWidth = document.querySelector("#inputWidth").value;
+
+const submitButton = document.querySelector("#submit");
+
 // Select color input
 // Select size input
 

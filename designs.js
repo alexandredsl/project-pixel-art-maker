@@ -2,6 +2,8 @@
 
 // TODO: definição de váriaveis;
 
+let pixelCanvas = document.querySelector("#pixelCanvas");
+
 let currentColor = document.querySelector("#colorPicker").value;
 
 let gridHeight = document.querySelector("#inputHeight").value;
